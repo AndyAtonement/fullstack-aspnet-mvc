@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap');
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+    font-size: 14px;
+}
+
+body {
+    margin-bottom: 60px;
+    background: url(../images/Honeycomb-Template.jpg) no-repeat;
+    width: 100vw;
+}
+
+.welcome {
+    text-shadow: 2px 2px 4px black;
+    font-weight: 600;
+}
+
+.logo {
+    width: 100px;
+}
+
+.nav-link {
+    text-shadow: 1px 1px 2px black;
+    font-weight: 900;
+    font-size: 19px;
+    color: #0098ce;
+}
+
+footer {
+    text-shadow: 1px 1px 2px black;
+    font-weight: 700;
+}
+
+.candidates {
+    text-shadow: 2px 2px 4px black;
+    font-weight: 300;
+}
+
+.btn {
+    width: 150px;
+}
+
+table {
+    box-shadow: inset 0 0 0 9999px var(--bs-table-accent-bg);
+    width: auto;
+}
+
+.field-validation-error {
+    color: #e01d1d;
+}
+
+.close-alert {
+    position: absolute;
+    right: -10px;
+    top: -15px;
+    border-radius: 15px;
+    width: 30px;
+    height: 31px;
+}

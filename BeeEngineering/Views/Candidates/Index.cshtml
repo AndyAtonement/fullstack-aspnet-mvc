@@ -1,0 +1,60 @@
+﻿@model List<CandidateModel>
+
+@{
+    ViewData["Title"] = "Candidates Control";
+}
+
+<div class="card text-center mt-5">
+    <div class="card-header">
+        <div class=" d-grid gap-2 d-md-flex justify-content-md-start">
+            <div class="text-start mt-3">
+                <a class="btn btn-outline-primary text-start" role="button" asp-controller="Candidates" asp-action="Create">Add New Candidate</a>
+            </div>
+        </div>        
+
+        <div class="justify-content-center">
+            <h1 class="candidates">Candidate's List</h1>
+        </div>
+    </div>
+    <div class="card-body">
+        <table class="table mt-4">
+            <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Surname</th>
+                    <th scope="col">Country</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null && Model.Any())
+                {
+                    foreach (CandidateModel candidates in Model)
+                    {
+                        <tr>
+                            <th scope="row">@candidates.Id</th>
+                            <td>@candidates.Name</td>
+                            <td>@candidates.Surname</td>
+                            <td>@candidates.Country</td>
+                            <td>
+                                <div>
+                                    <a role="button" class="btn btn-outline-primary" asp-route-id="@candidates.Id" asp-controller="Candidates" asp-action="Update">Edit</a>
+                                    <a role="button" class="btn btn-outline-danger" asp-route-id="@candidates.Id" asp-controller="Candidates" asp-action="Delete">Delete</a>
+                                </div>
+                            </td>
+                        </tr>
+
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+
+
+    <div class="card-footer text-muted">
+        2 days ago
+    </div>
+</div>
+
+

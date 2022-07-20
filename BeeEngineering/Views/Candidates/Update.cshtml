@@ -1,0 +1,42 @@
+﻿@model CandidateModel
+@{
+    ViewData["Title"] = "Update Cadidate Page";
+}
+
+
+<div class="card text-xl-start mt-5 align-middle">
+  <div class="card-header text-center">
+      <h1 class="display-4 candidates">Update</h1>
+  </div>
+
+  <div class="card-body">
+    <form asp-controller="Candidates" asp-action="Update" method="post">
+  <div class="mb-3">
+    <label for="inputName">Name</label>
+    <input type="text" asp-for="Name" class="form-control" id="name" placeholder="Type your name">
+    @Html.ValidationMessageFor(x => x.Name)
+  </div>
+
+  <div class="mb-3">
+    <label for="inputSurname">Surname</label>
+    <input type="text" asp-for="Surname" class="form-control" id="surname" placeholder="Your surname here">
+    @Html.ValidationMessageFor(x => x.Surname)
+  </div>
+
+  <div class="mb-3">
+    <label for="inputCountry">Country</label>
+    <input type="text" asp-for="Country" class="form-control" id="country" placeholder="What country are you live in?">
+    @Html.ValidationMessageFor(x => x.Country)
+  </div>
+
+  <div class="text-center">
+      <button type="submit" class="btn btn-outline-primary">Submit</button>
+      <a class="btn btn-outline-secondary" asp-controller="Candidates" asp-action="Index">Go Back</a>
+  </div>
+</form>
+  </div>
+  <div class="card-footer text-muted text-center">
+      Thanks for using this app!
+  </div>
+</div>
+
