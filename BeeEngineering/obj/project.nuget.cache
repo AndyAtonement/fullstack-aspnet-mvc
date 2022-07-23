@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b9KehuTs72QENf14w4cvceStnay4vjqOOicWMD5DMNLOATtUN/SUmKtOYhMSfFJ9UbWhwUkDoyJA2urTqaT+Qg==",
+  "dgSpecHash": "f2EHoY90gMvgC9g/SN65/O2NedKdMj2ErhA5gNdpW3bdbVcUhcUugXzDRhoWTJd09CNigpLV1iYtnSLlEZSf/w==",
   "success": true,
-  "projectFilePath": "D:\\CSharp\\BeeEngineering\\BeeEngineering\\BeeEngineering.csproj",
+  "projectFilePath": "D:\\csharp\\aspnet\\fullstack-aspnet-mvc\\BeeEngineering\\BeeEngineering.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

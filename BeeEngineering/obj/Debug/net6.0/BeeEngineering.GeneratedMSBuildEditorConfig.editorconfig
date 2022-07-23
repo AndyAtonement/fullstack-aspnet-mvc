@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BeeEngineering
 build_property.RootNamespace = BeeEngineering
-build_property.ProjectDir = D:\CSharp\BeeEngineering\BeeEngineering\
+build_property.ProjectDir = D:\csharp\aspnet\fullstack-aspnet-mvc\BeeEngineering\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\CSharp\BeeEngineering\BeeEngineering
+build_property.MSBuildProjectDirectory = D:\csharp\aspnet\fullstack-aspnet-mvc\BeeEngineering
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/CSharp/BeeEngineering/BeeEngineering/Views/Candidates/Create.cshtml]
+[D:/csharp/aspnet/fullstack-aspnet-mvc/BeeEngineering/Views/Candidates/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CSharp/BeeEngineering/BeeEngineering/Views/Candidates/Delete.cshtml]
+[D:/csharp/aspnet/fullstack-aspnet-mvc/BeeEngineering/Views/Candidates/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CSharp/BeeEngineering/BeeEngineering/Views/Candidates/Index.cshtml]
+[D:/csharp/aspnet/fullstack-aspnet-mvc/BeeEngineering/Views/Candidates/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CSharp/BeeEngineering/BeeEngineering/Views/Candidates/Update.cshtml]
+[D:/csharp/aspnet/fullstack-aspnet-mvc/BeeEngineering/Views/Candidates/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlc1xVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CSharp/BeeEngineering/BeeEngineering/Views/Home/Index.cshtml]
+[D:/csharp/aspnet/fullstack-aspnet-mvc/BeeEngineering/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CSharp/BeeEngineering/BeeEngineering/Views/Home/Privacy.cshtml]
+[D:/csharp/aspnet/fullstack-aspnet-mvc/BeeEngineering/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CSharp/BeeEngineering/BeeEngineering/Views/Shared/Error.cshtml]
+[D:/csharp/aspnet/fullstack-aspnet-mvc/BeeEngineering/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CSharp/BeeEngineering/BeeEngineering/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/csharp/aspnet/fullstack-aspnet-mvc/BeeEngineering/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CSharp/BeeEngineering/BeeEngineering/Views/_ViewImports.cshtml]
+[D:/csharp/aspnet/fullstack-aspnet-mvc/BeeEngineering/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CSharp/BeeEngineering/BeeEngineering/Views/_ViewStart.cshtml]
+[D:/csharp/aspnet/fullstack-aspnet-mvc/BeeEngineering/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CSharp/BeeEngineering/BeeEngineering/Views/Shared/_Layout.cshtml]
+[D:/csharp/aspnet/fullstack-aspnet-mvc/BeeEngineering/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-6l7pcxw3z7

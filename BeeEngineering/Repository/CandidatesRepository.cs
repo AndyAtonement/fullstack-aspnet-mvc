@@ -41,7 +41,7 @@ namespace BeeEngineering.Repository
             CandidateModel candidateDB = GetById(id);
 
             if (candidateDB == null) throw new Exception("Unexpected error deleting the candidadte");
-
+            if (candidateDB == null) throw new Exception("Unexpected error deleting the candidadte");
             
             _context.Candidates.Remove(candidateDB);
             _context.SaveChanges();

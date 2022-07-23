@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp\\BeeEngineering\\BeeEngineering\\BeeEngineering.csproj": {}
+    "D:\\csharp\\aspnet\\fullstack-aspnet-mvc\\BeeEngineering\\BeeEngineering.csproj": {}
   },
   "projects": {
-    "D:\\CSharp\\BeeEngineering\\BeeEngineering\\BeeEngineering.csproj": {
+    "D:\\csharp\\aspnet\\fullstack-aspnet-mvc\\BeeEngineering\\BeeEngineering.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp\\BeeEngineering\\BeeEngineering\\BeeEngineering.csproj",
+        "projectUniqueName": "D:\\csharp\\aspnet\\fullstack-aspnet-mvc\\BeeEngineering\\BeeEngineering.csproj",
         "projectName": "BeeEngineering",
-        "projectPath": "D:\\CSharp\\BeeEngineering\\BeeEngineering\\BeeEngineering.csproj",
+        "projectPath": "D:\\csharp\\aspnet\\fullstack-aspnet-mvc\\BeeEngineering\\BeeEngineering.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp\\BeeEngineering\\BeeEngineering\\obj\\",
+        "outputPath": "D:\\csharp\\aspnet\\fullstack-aspnet-mvc\\BeeEngineering\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
