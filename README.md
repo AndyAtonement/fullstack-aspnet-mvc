@@ -15,7 +15,7 @@ O que eu usei?
 
 # English
 ## fullstack-aspnet-mvc
-An fullstack project that i created for an interview. Since i am a candidate, i created this app that allows you to register candidates and manage it. Using CRUD, you can manage the candidates.
+An fullstack project that i created for an interview. Since i was the candidate, i created this app that allows you to register candidates and manage it. Using CRUD, you can manage the candidates.
 
 What i used here?
 
